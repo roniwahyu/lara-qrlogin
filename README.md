@@ -1,3 +1,6 @@
+## Website
+https://dev.to/sahilkashyap64/qr-login-in-php-2pgf
+
 # How to run the project
 - rename .env.example to .env
 - add db connection in .env
